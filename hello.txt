@@ -1,2 +1,4 @@
 Hello, this is version 2
 I am learning Git.
+
+Edited from GitHub website
